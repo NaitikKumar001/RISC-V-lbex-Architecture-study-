@@ -1,4 +1,4 @@
-
+ibex-architecture.png
 
 
 # 02 - Ibex Instruction Architecture

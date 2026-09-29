@@ -12,6 +12,8 @@ Ibex is a small, open-source, 32-bit RISC-V CPU core developed and maintained by
 
 It is an actual hardware implementation of the RISC-V Instruction Set Architecture (ISA).
 
+The Ibex core is designed to support the standard **RV32I (40 base integer instructions)** or **RV32E (16 base instructions)** instruction sets, expandable to **over 100 instructions** depending on the enabled extensions.
+
 In simple words:
 > RISC-V tells a CPU what instructions mean, and Ibex is a CPU core that implements those instructions.
 
